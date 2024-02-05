@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MbrTextGenerator", "MbrTextGenerator\MbrTextGenerator.csproj", "{C24619D6-9C51-4F05-95A3-1CEB9706699F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{B7CD86EF-B71C-4530-890C-6C8475BD3A15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8B483E1-1646-4B55-B0AC-AE0F80DA90EA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24619D6-9C51-4F05-95A3-1CEB9706699F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24619D6-9C51-4F05-95A3-1CEB9706699F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24619D6-9C51-4F05-95A3-1CEB9706699F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24619D6-9C51-4F05-95A3-1CEB9706699F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CD86EF-B71C-4530-890C-6C8475BD3A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CD86EF-B71C-4530-890C-6C8475BD3A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CD86EF-B71C-4530-890C-6C8475BD3A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CD86EF-B71C-4530-890C-6C8475BD3A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC84AC00-A2B2-4ECF-A817-F7D2307648B3}
+	EndGlobalSection
+EndGlobal
